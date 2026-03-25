@@ -1,0 +1,6 @@
+#le dice cómo debe correr esa pieza y cómo conectarla con el mundo exterior.
+services:
+  api:
+    build: .
+    ports:
+      - "5000:5000"
