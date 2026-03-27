@@ -3,6 +3,12 @@
 Este proyecto implementa una solución completa de cliente-servidor para la gestión de notas (CRUD), autenticación segura y despliegue mediante contenedores.
 
 ---
+Integrantes:
+
+Castro Rodriguez Paola Yazmin.  
+Díaz Peña Alfredo Yael.  
+Flores Madrigal Diego.  
+Mejia Franco Esteban Saúl.  
 
 ## Arquitectura del Proyecto
 
